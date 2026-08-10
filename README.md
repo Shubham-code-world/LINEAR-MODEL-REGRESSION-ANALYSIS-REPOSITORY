@@ -16,3 +16,10 @@ Implementation and performance evaluation of linear regression models for predic
 • On the basis of given data we concluded that weight has strongly affects on Blood
 Pressure.
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## LMRA - 2
+
+### Interpretation :
+ #### Trees dataset:
+###### Tree volume increases as both girth and height increase, meaning thicker and taller trees contain more wood. The model shows these two variables strongly explain tree volume.
+ #### Mtcars dataset:
+ ###### Car mileage decreases as weight, engine size, cylinders, and horsepower increase, while more gears slightly improve mileage. Heavier and more powerful cars give lower fuel efficiency.
