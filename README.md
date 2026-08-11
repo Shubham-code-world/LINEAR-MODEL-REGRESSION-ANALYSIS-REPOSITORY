@@ -23,3 +23,10 @@ Pressure.
 ###### Tree volume increases as both girth and height increase, meaning thicker and taller trees contain more wood. The model shows these two variables strongly explain tree volume.
  #### Mtcars dataset:
  ###### Car mileage decreases as weight, engine size, cylinders, and horsepower increase, while more gears slightly improve mileage. Heavier and more powerful cars give lower fuel efficiency.
+
+# ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## LMRA LAB - 3
+### Interpretation :
+###### • The exponential model fits the data well because the predicted curve follows the increasing pattern of the points and the R² value is high.
+###### • The residual plot shows no clear pattern, so the model assumptions look reasonable and the model is suitable for prediction.
