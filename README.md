@@ -38,6 +38,8 @@ Pressure.
 ###### • The t-tests show both variables are important, so when number of products or distance increases, delivery time also increases. The confidence interval of β₁ not containing 0 confirms number of products has a real effect on delivery time.
 
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## LMRA LAB - 5
+
 ### Interpretation :-
 ###### • As hardwood concentration increases, tensile strength first increases and then decreases, showing a curved (quadratic) relationship.
 ###### • The likelihood ratio test shows the polynomial model fits the data much better than the model with no predictors, so hardwood concentration significantly affects tensile strength.
