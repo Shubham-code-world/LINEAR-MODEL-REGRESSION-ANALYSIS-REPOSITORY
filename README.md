@@ -32,7 +32,7 @@ Pressure.
 ###### • The residual plot shows no clear pattern, so the model assumptions look reasonable and the model is suitable for prediction.
 
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
+## LMRA LAB - 4
 ## Interpretation :
 ###### • The F-test shows the regression model is good, meaning number of products and distance together affect delivery time. R² tells us that most of the change in delivery time is explained by this model.
 ###### • The t-tests show both variables are important, so when number of products or distance increases, delivery time also increases. The confidence interval of β₁ not containing 0 confirms number of products has a real effect on delivery time.
