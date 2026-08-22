@@ -44,4 +44,11 @@ Pressure.
 ###### • As hardwood concentration increases, tensile strength first increases and then decreases, showing a curved (quadratic) relationship.
 ###### • The likelihood ratio test shows the polynomial model fits the data much better than the model with no predictors, so hardwood concentration significantly affects tensile strength.
 
+# ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## LMRA LAB - 6
+
+### Interpretation :
+###### • Hours studied and hours slept significantly affect the probability of passing the exam.
+###### • As study time increases, the chance of passing increases following an S-shaped logistic curve
+
 
